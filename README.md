@@ -30,7 +30,7 @@ cd Patient-Billing-Microservices-Java
 2.Build all services
 mvn clean install
 
-3.Start infrastructure (LocalStack)
+3.Start infrastructure 
 cd infrastructure
 docker run --rm -it -p 4566:4566 -p 4571:4571 localstack/localstack
 
@@ -60,11 +60,10 @@ Implement Notification Service.
 
 Integrate real AWS services.
 
-Develop a frontend dashboard for monitoring and management.
+
 
 Author
 Vanditha Hamsa
 A developer specializing in Java, Spring Boot, and microservices architecture.
 
-yaml
-Copy code
+
