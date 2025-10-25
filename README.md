@@ -46,7 +46,10 @@ cd analytics-service && mvn spring-boot:run
 
 6.API Gateway
 http://localhost:8080
-Key Concepts Demonstrated
+
+
+
+Demonstrated
 Microservices communication using REST and gRPC.
 
 Containerizing services with Docker.
@@ -63,7 +66,7 @@ Integrate real AWS services.
 
 
 Author
-Vanditha Hamsa
+Vanditha Hamsa ,
 A developer specializing in Java, Spring Boot, and microservices architecture.
 
 
