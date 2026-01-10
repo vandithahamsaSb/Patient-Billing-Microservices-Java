@@ -1,7 +1,7 @@
 # Patient & Billing Microservices
 
 ## Overview
-This project is a fully functional Java Spring Boot microservice application that demonstrates how multiple services can work together using REST APIs, Docker, and a local cloud emulation. Each service runs independently while communicating with others, thereby simulating a real-world enterprise microservice architecture.
+“This project was developed as a learning project to understand microservices using Spring Boot.”
 
 ## Services Included
 - **Patient Service** – Manages patient data.
